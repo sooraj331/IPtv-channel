@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AndorraTV.ad@Web",Andorra TV (1080p)
-https://live-edge-eu-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C022/live-3000/index.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad@Web",spiderman (1080p)
+https://m3u8-play-240924.playkrx18.site/m3u8/tp1-rdv1/1080/64ca9e03aa97fec013a4c341/69049e8e7e3f612e10c39eea/53616c7465645f5fea815c261d2fb1d9e31b23181186b1d613bc0029ee5e9a7e/1762193552/b10cea48243558b59a0acae9092549fd
 #EXTINF:-1 tvg-id="AndorraTV.ad@SD",ATV (1080p)
 https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/manifest.m3u8
+
