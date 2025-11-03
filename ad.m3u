@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AndorraTV.ad@Web",spiderman (1080p)
 https://m3u8-play-240924.playkrx18.site/m3u8/tp1-rdv1/1080/64ca9e03aa97fec013a4c341/69049e8e7e3f612e10c39eea/53616c7465645f5fea815c261d2fb1d9e31b23181186b1d613bc0029ee5e9a7e/1762193552/b10cea48243558b59a0acae9092549fd
-#EXTINF:-1 tvg-id="AndorraTV.ad@SD",ATV (1080p)
-https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/manifest.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad@SD",Penguins of Madagasc (1080p)
+https://m3u8-play-240924.playkrx18.site/m3u8/tp1-rdv1/1080/64ca9e03aa97fec013a4c341/69049e857e3f612e10c39ec6/53616c7465645f5ff9a22ec4327a97afa90ebbb2d45f172010a2276f1d64d06b/1762193283/da5a648d75a5af149c488bafe332cc42
+
 
