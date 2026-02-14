@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="SanaTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sana-TV-Logo_2000_X_1125_Transpharent.png" tvg-region="State-wide" group-title="PLC",Sana TV
-https://galaxyott.live/hls/sanatv.m3u8
+http://217.20.112.199/asianet/index.m3u8
 #EXTINF:-1 tvg-id="SanaPlus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANA-PLUS-LOGO_2000_X_1125_Transpharent.png" tvg-region="State-wide" group-title="Music",Sana Plus
 https://galaxyott.live/hls/sanaplus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Entertainment" tvg-language="Malayalam" tvg-country="India",Asianet HD (720p)
@@ -996,3 +996,4 @@ http://omtv.7starcloud.com:1935/omtv/live/live.m3u8
 https://ipcloud.live/ctn/arasu/index.m3u8
 #EXTINF:-1 tvg-id="MagalirTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-MAGALIR-TV.png?alt=media&token=479bc182-afa2-406a-8dbb" tvg-region="" group-title="PLC",Magalir TV
 https://ipcloud.live/ctn/magalir/index.m3u8
+
