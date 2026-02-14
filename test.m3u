@@ -4,7 +4,7 @@
 https://file-examples.com/wp-content/storage/2017/04/file_example_MP4_480_1_5MG.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="General" tvg-language="Malayalam" tvg-country="India",Anand TV (720p) [Not 24/7]
-https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+ftp://admin:Secadora@192.168.1.10/volume4/Filmes/The.secret.life.of.pets.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Entertainment" tvg-language="Malayalam" tvg-country="India",Asianet HD (720p)
 http://217.20.112.199/asianet/index.m3u8
