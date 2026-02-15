@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://filmartgallery.com/cdn/shop/products/Spider-Man-Vintage-Movie-Poster-Original_fc6bb063.jpg?height=1024&v=1741737243&width=1024.jpg" group-title="Entertainment" tvg-language="Malayalam" tvg-country="India",Amrita TV (720p)
-https://file-examples.com/wp-content/storage/2017/04/file_example_MP4_480_1_5MG.mp4
+https://live-hls-abr-cdn.livepush.io/vod/bigbuckbunnyclip.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="General" tvg-language="Malayalam" tvg-country="India",Anand TV (720p) [Not 24/7]
 ftp://admin:Secadora@192.168.1.10/volume4/Filmes/The.secret.life.of.pets.mp4
